@@ -1,0 +1,8 @@
+Asset:
+
+GPU Graph
+https://assetstore.unity.com/packages/tools/gui/gpu-graph-72998
+
+
+SimpleSpectrum - Free Audio Spectrum Generator
+https://assetstore.unity.com/packages/tools/audio/simplespectrum-free-audio-spectrum-generator-85294

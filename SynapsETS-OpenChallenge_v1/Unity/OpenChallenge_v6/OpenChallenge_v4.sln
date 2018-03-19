@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenChallenge_v4.Plugins", "OpenChallenge_v4.Plugins.csproj", "{5ED9BA29-58B2-D236-BB17-02D99FC5FF3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenChallenge_v4", "OpenChallenge_v4.csproj", "{8322DD1A-BED4-DAB6-86E7-98B2474002D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenChallenge_v4.Editor.Plugins", "OpenChallenge_v4.Editor.Plugins.csproj", "{4546EFAF-FFE9-0F97-7A76-F1463355707A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED9BA29-58B2-D236-BB17-02D99FC5FF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED9BA29-58B2-D236-BB17-02D99FC5FF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED9BA29-58B2-D236-BB17-02D99FC5FF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED9BA29-58B2-D236-BB17-02D99FC5FF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8322DD1A-BED4-DAB6-86E7-98B2474002D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8322DD1A-BED4-DAB6-86E7-98B2474002D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8322DD1A-BED4-DAB6-86E7-98B2474002D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8322DD1A-BED4-DAB6-86E7-98B2474002D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4546EFAF-FFE9-0F97-7A76-F1463355707A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4546EFAF-FFE9-0F97-7A76-F1463355707A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4546EFAF-FFE9-0F97-7A76-F1463355707A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4546EFAF-FFE9-0F97-7A76-F1463355707A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

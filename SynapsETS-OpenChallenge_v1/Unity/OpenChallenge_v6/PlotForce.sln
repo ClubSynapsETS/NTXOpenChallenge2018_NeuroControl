@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlotForce", "PlotForce.csproj", "{01916D1D-7D62-BA2E-6EFF-23358C536C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlotForce.Editor", "PlotForce.Editor.csproj", "{94CDC8F4-D1D8-B300-F88A-8A102A771BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01916D1D-7D62-BA2E-6EFF-23358C536C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01916D1D-7D62-BA2E-6EFF-23358C536C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01916D1D-7D62-BA2E-6EFF-23358C536C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01916D1D-7D62-BA2E-6EFF-23358C536C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CDC8F4-D1D8-B300-F88A-8A102A771BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CDC8F4-D1D8-B300-F88A-8A102A771BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CDC8F4-D1D8-B300-F88A-8A102A771BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CDC8F4-D1D8-B300-F88A-8A102A771BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
